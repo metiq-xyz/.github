@@ -19,7 +19,7 @@
 
 <p align="center">
     <a href="https://ko-fi.com/metiq"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"></a>
-    <a href="https://github.com/sponsors/metiq-xyz"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GH sponsor"></a>
+    <a href="https://liberapay.com/metiq/"><img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" alt="Liberapay"></a>
 </p>
 
 <p align="center">
@@ -33,20 +33,21 @@
 
 Metiq plays high-quality **colored noise** — pink, brown, white, and grey — alongside **binaural beats** and a set of relaxing **ambient sounds**, to help you focus, study, meditate, fall asleep, or just block out the world.
 
-Open it, tap, listen. That's the whole app.
+Open it, tap, listen. That's the whole app. Everything sits on one screen: three categories — noise, ambient, binaurals — all feeding a single mix.
 
 It's **fully offline** — audio is bundled, so there's no streaming, no account, and no internet permission. **No ads, no tracking, no analytics, no third-party SDKs.** Built to be native on each platform it lands on, and light on your battery.
 
 ## Highlights
 
-- 🎧 **Four colored noises + six ambient sounds** — seamless, gapless loops
+- 🎧 **Four colored noises + eight ambient sounds** — seamless, gapless loops
 - 🧠 **Binaural beats** — five brainwave bands (delta to gamma) layered under any sound
-- 🎚️ **Mix your own** — layer ambient sounds at independent levels and save presets
+- 🎚️ **One mix for everything** — colored noise, ambient sounds and binaural beats play together, with quick mixes to start from and your own saved mixes
 - 🌡️ **Warmth control** — roll off harsh highs to soften the colored noise
 - ⏲️ **Sleep timer** — quick presets or custom hours / minutes / seconds
+- 🏠 **Starts where you want** — home, or straight into noise, ambient or binaurals
 - 🔒 **Private by default** — offline, no accounts, no tracking, no ads
 - 🔋 **Featherweight** — hardware-mixed audio, tiny footprint, minimal battery
-- 🌍 **Seven languages** — English, Italian, Spanish, French, Portuguese, Polish, Chinese (Simplified)
+- 🌍 **Eight languages** — English, Italian, Spanish, French, Portuguese, Polish, Chinese (Simplified), Arabic
 
 ## Get it
 
@@ -66,7 +67,7 @@ Android 9 (API 28) and newer.
 Metiq is free and open source, and it stays that way. If it helps you or you like it, you can donate:
 
 - ☕ [Ko-fi](https://ko-fi.com/metiq)
-- 💜 [GitHub Sponsors](https://github.com/sponsors/metiq-xyz)
+- 💛 [Liberapay](https://liberapay.com/metiq/)
 
 ## License
 
