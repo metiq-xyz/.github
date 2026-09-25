@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+    <a href="https://github.com/sponsors/metiq-xyz"><img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
     <a href="https://ko-fi.com/metiq"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"></a>
     <a href="https://liberapay.com/metiq/"><img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" alt="Liberapay"></a>
 </p>
@@ -66,6 +67,7 @@ Android 9 (API 28) and newer.
 
 Metiq is free and open source, and it stays that way. If it helps you or you like it, you can donate:
 
+- 💖 [GitHub Sponsors](https://github.com/sponsors/metiq-xyz)
 - ☕ [Ko-fi](https://ko-fi.com/metiq)
 - 💛 [Liberapay](https://liberapay.com/metiq/)
 
